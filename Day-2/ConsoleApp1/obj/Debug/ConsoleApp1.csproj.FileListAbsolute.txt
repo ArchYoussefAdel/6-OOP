@@ -1,0 +1,8 @@
+C:\BIM\ITI\6-OOP\Day-2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\BIM\ITI\6-OOP\Day-2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\BIM\ITI\6-OOP\Day-2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\BIM\ITI\6-OOP\Day-2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\BIM\ITI\6-OOP\Day-2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\BIM\ITI\6-OOP\Day-2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\BIM\ITI\6-OOP\Day-2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\BIM\ITI\6-OOP\Day-2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
