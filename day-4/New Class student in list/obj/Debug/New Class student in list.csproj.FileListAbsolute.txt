@@ -1,0 +1,8 @@
+C:\BIM\ITI\6-OOP\day-4\New Class student in list\bin\Debug\New Class student in list.exe.config
+C:\BIM\ITI\6-OOP\day-4\New Class student in list\bin\Debug\New Class student in list.exe
+C:\BIM\ITI\6-OOP\day-4\New Class student in list\bin\Debug\New Class student in list.pdb
+C:\BIM\ITI\6-OOP\day-4\New Class student in list\obj\Debug\New Class student in list.csproj.AssemblyReference.cache
+C:\BIM\ITI\6-OOP\day-4\New Class student in list\obj\Debug\New Class student in list.csproj.SuggestedBindingRedirects.cache
+C:\BIM\ITI\6-OOP\day-4\New Class student in list\obj\Debug\New Class student in list.csproj.CoreCompileInputs.cache
+C:\BIM\ITI\6-OOP\day-4\New Class student in list\obj\Debug\New Class student in list.exe
+C:\BIM\ITI\6-OOP\day-4\New Class student in list\obj\Debug\New Class student in list.pdb
