@@ -1,0 +1,8 @@
+C:\BIM\ITI\6-OOP\quiz\1\School System\bin\Debug\School System.exe.config
+C:\BIM\ITI\6-OOP\quiz\1\School System\bin\Debug\School System.exe
+C:\BIM\ITI\6-OOP\quiz\1\School System\bin\Debug\School System.pdb
+C:\BIM\ITI\6-OOP\quiz\1\School System\obj\Debug\School System.csproj.AssemblyReference.cache
+C:\BIM\ITI\6-OOP\quiz\1\School System\obj\Debug\School System.csproj.SuggestedBindingRedirects.cache
+C:\BIM\ITI\6-OOP\quiz\1\School System\obj\Debug\School System.csproj.CoreCompileInputs.cache
+C:\BIM\ITI\6-OOP\quiz\1\School System\obj\Debug\School System.exe
+C:\BIM\ITI\6-OOP\quiz\1\School System\obj\Debug\School System.pdb

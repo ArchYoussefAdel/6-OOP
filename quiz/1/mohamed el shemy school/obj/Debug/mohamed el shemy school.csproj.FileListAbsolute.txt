@@ -1,0 +1,8 @@
+C:\BIM\ITI\6-OOP\quiz\1\mohamed el shemy school\bin\Debug\mohamed el shemy school.exe.config
+C:\BIM\ITI\6-OOP\quiz\1\mohamed el shemy school\bin\Debug\mohamed el shemy school.exe
+C:\BIM\ITI\6-OOP\quiz\1\mohamed el shemy school\bin\Debug\mohamed el shemy school.pdb
+C:\BIM\ITI\6-OOP\quiz\1\mohamed el shemy school\obj\Debug\mohamed el shemy school.csproj.AssemblyReference.cache
+C:\BIM\ITI\6-OOP\quiz\1\mohamed el shemy school\obj\Debug\mohamed el shemy school.csproj.SuggestedBindingRedirects.cache
+C:\BIM\ITI\6-OOP\quiz\1\mohamed el shemy school\obj\Debug\mohamed el shemy school.csproj.CoreCompileInputs.cache
+C:\BIM\ITI\6-OOP\quiz\1\mohamed el shemy school\obj\Debug\mohamed el shemy school.exe
+C:\BIM\ITI\6-OOP\quiz\1\mohamed el shemy school\obj\Debug\mohamed el shemy school.pdb
