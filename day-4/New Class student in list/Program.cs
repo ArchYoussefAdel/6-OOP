@@ -4,11 +4,12 @@ using System.Collections.Generic;
 class Student
 {
     private int[] grades;
-    public string Name { get; set; }
     public Student()
     {
         grades = new int[10];
     }
+    public string Name { get; set; }
+
     public int this[int subject]
     {
         get
@@ -34,7 +35,6 @@ class Student
         return total;
     }
 }
-
 class Program
 {
     static void Main()
