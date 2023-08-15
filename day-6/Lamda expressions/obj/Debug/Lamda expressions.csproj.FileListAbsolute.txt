@@ -1,0 +1,8 @@
+C:\BIM\ITI\6-OOP\day-6\Lamda expressions\bin\Debug\Lamda expressions.exe.config
+C:\BIM\ITI\6-OOP\day-6\Lamda expressions\bin\Debug\Lamda expressions.exe
+C:\BIM\ITI\6-OOP\day-6\Lamda expressions\bin\Debug\Lamda expressions.pdb
+C:\BIM\ITI\6-OOP\day-6\Lamda expressions\obj\Debug\Lamda expressions.csproj.AssemblyReference.cache
+C:\BIM\ITI\6-OOP\day-6\Lamda expressions\obj\Debug\Lamda expressions.csproj.SuggestedBindingRedirects.cache
+C:\BIM\ITI\6-OOP\day-6\Lamda expressions\obj\Debug\Lamda expressions.csproj.CoreCompileInputs.cache
+C:\BIM\ITI\6-OOP\day-6\Lamda expressions\obj\Debug\Lamda expressions.exe
+C:\BIM\ITI\6-OOP\day-6\Lamda expressions\obj\Debug\Lamda expressions.pdb

@@ -32,7 +32,7 @@ namespace Exception_Handling
             }
             catch (OverflowException e)
             {
-                Console.WriteLine(e);
+                Console.WriteLine(e.Message);
             }
             catch (DivideByZeroException e)
             {
@@ -50,6 +50,7 @@ namespace Exception_Handling
             catch (FormatException FE)
             {
                 Console.WriteLine("Invalid input. Please enter an integer.");
+                Console.WriteLine(FE.Message);
                 Console.WriteLine(FE);
             }
             finally

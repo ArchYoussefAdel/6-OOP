@@ -1,0 +1,8 @@
+C:\BIM\ITI\6-OOP\day-6\calculator in 3 ways\bin\Debug\calculator in 3 ways.exe.config
+C:\BIM\ITI\6-OOP\day-6\calculator in 3 ways\bin\Debug\calculator in 3 ways.exe
+C:\BIM\ITI\6-OOP\day-6\calculator in 3 ways\bin\Debug\calculator in 3 ways.pdb
+C:\BIM\ITI\6-OOP\day-6\calculator in 3 ways\obj\Debug\calculator in 3 ways.csproj.AssemblyReference.cache
+C:\BIM\ITI\6-OOP\day-6\calculator in 3 ways\obj\Debug\calculator in 3 ways.csproj.SuggestedBindingRedirects.cache
+C:\BIM\ITI\6-OOP\day-6\calculator in 3 ways\obj\Debug\calculator in 3 ways.csproj.CoreCompileInputs.cache
+C:\BIM\ITI\6-OOP\day-6\calculator in 3 ways\obj\Debug\calculator in 3 ways.exe
+C:\BIM\ITI\6-OOP\day-6\calculator in 3 ways\obj\Debug\calculator in 3 ways.pdb
