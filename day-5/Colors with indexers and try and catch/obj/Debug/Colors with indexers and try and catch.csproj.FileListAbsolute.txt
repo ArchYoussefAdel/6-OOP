@@ -1,0 +1,8 @@
+C:\BIM\ITI\6-OOP\day-5\Colors with indexers and try and catch\bin\Debug\Colors with indexers and try and catch.exe.config
+C:\BIM\ITI\6-OOP\day-5\Colors with indexers and try and catch\bin\Debug\Colors with indexers and try and catch.exe
+C:\BIM\ITI\6-OOP\day-5\Colors with indexers and try and catch\bin\Debug\Colors with indexers and try and catch.pdb
+C:\BIM\ITI\6-OOP\day-5\Colors with indexers and try and catch\obj\Debug\Colors with indexers and try and catch.csproj.AssemblyReference.cache
+C:\BIM\ITI\6-OOP\day-5\Colors with indexers and try and catch\obj\Debug\Colors with indexers and try and catch.csproj.SuggestedBindingRedirects.cache
+C:\BIM\ITI\6-OOP\day-5\Colors with indexers and try and catch\obj\Debug\Colors with indexers and try and catch.csproj.CoreCompileInputs.cache
+C:\BIM\ITI\6-OOP\day-5\Colors with indexers and try and catch\obj\Debug\Colors with indexers and try and catch.exe
+C:\BIM\ITI\6-OOP\day-5\Colors with indexers and try and catch\obj\Debug\Colors with indexers and try and catch.pdb

@@ -1,0 +1,49 @@
+arrays are used to store multiple values of similar type in one variable, 
+while indexers provide access into specific elements within those variables using integer indices or other keys
+Why to use indexers ??
+
+instead of a new data structure, the class itself is a data structure.
+simplified syntax 
+When to use ??
+
+if your class needs list(/array) of its instances (example 1)
+if your class represents list(/array) of values directly related to your class (example 2)
+Example 1:
+
+public class Person{
+    public string Name{get; set;}
+    
+    private Person[] _backingStore;
+    public Person this[int index]
+    {
+        get{
+            return _backingStore[index];
+        }
+        set{
+            _backingStore[index] = value;
+        }
+    }
+}
+
+Person p = new Person();
+p[0] = new Person(){Name = "Hassan"};
+p[1] = new Person(){Name = "John Skeet"};    
+Example 2:
+
+class TempratureRecord{
+    private float[] temps = new float[10] { 56.2F, 56.7F, 56.5F, 56.9F, 58.8F, 61.3F, 56.5F, 56.9F, 58.8F, 61.3F};
+
+    public int Length{
+        get { return temps.Length; }
+    }
+
+    public float this[int index]
+    {
+        get{
+            return temps[index];
+        }
+        set{
+            temps[index] = value;
+        }
+    }
+}

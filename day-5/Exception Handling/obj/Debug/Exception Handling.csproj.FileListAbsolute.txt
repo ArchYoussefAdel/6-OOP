@@ -1,0 +1,8 @@
+C:\BIM\ITI\6-OOP\day-5\Exception Handling\bin\Debug\Exception Handling.exe.config
+C:\BIM\ITI\6-OOP\day-5\Exception Handling\bin\Debug\Exception Handling.exe
+C:\BIM\ITI\6-OOP\day-5\Exception Handling\bin\Debug\Exception Handling.pdb
+C:\BIM\ITI\6-OOP\day-5\Exception Handling\obj\Debug\Exception Handling.csproj.AssemblyReference.cache
+C:\BIM\ITI\6-OOP\day-5\Exception Handling\obj\Debug\Exception Handling.csproj.SuggestedBindingRedirects.cache
+C:\BIM\ITI\6-OOP\day-5\Exception Handling\obj\Debug\Exception Handling.csproj.CoreCompileInputs.cache
+C:\BIM\ITI\6-OOP\day-5\Exception Handling\obj\Debug\Exception Handling.exe
+C:\BIM\ITI\6-OOP\day-5\Exception Handling\obj\Debug\Exception Handling.pdb
