@@ -1,0 +1,8 @@
+C:\BIM\ITI\6-OOP\day-7\day7oopAnonymous Types\bin\Debug\day7oopAnonymous Types.exe.config
+C:\BIM\ITI\6-OOP\day-7\day7oopAnonymous Types\bin\Debug\day7oopAnonymous Types.exe
+C:\BIM\ITI\6-OOP\day-7\day7oopAnonymous Types\bin\Debug\day7oopAnonymous Types.pdb
+C:\BIM\ITI\6-OOP\day-7\day7oopAnonymous Types\obj\Debug\day7oopAnonymous Types.csproj.AssemblyReference.cache
+C:\BIM\ITI\6-OOP\day-7\day7oopAnonymous Types\obj\Debug\day7oopAnonymous Types.csproj.SuggestedBindingRedirects.cache
+C:\BIM\ITI\6-OOP\day-7\day7oopAnonymous Types\obj\Debug\day7oopAnonymous Types.csproj.CoreCompileInputs.cache
+C:\BIM\ITI\6-OOP\day-7\day7oopAnonymous Types\obj\Debug\day7oopAnonymous Types.exe
+C:\BIM\ITI\6-OOP\day-7\day7oopAnonymous Types\obj\Debug\day7oopAnonymous Types.pdb

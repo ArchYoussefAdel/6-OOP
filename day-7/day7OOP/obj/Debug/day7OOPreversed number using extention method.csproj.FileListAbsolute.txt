@@ -1,0 +1,8 @@
+C:\BIM\ITI\6-OOP\day-7\day7OOP\bin\Debug\day7OOP.exe.config
+C:\BIM\ITI\6-OOP\day-7\day7OOP\bin\Debug\day7OOP.exe
+C:\BIM\ITI\6-OOP\day-7\day7OOP\bin\Debug\day7OOP.pdb
+C:\BIM\ITI\6-OOP\day-7\day7OOP\obj\Debug\day7OOPreversed number using extention method.csproj.AssemblyReference.cache
+C:\BIM\ITI\6-OOP\day-7\day7OOP\obj\Debug\day7OOPreversed number using extention method.csproj.SuggestedBindingRedirects.cache
+C:\BIM\ITI\6-OOP\day-7\day7OOP\obj\Debug\day7OOPreversed number using extention method.csproj.CoreCompileInputs.cache
+C:\BIM\ITI\6-OOP\day-7\day7OOP\obj\Debug\day7OOP.exe
+C:\BIM\ITI\6-OOP\day-7\day7OOP\obj\Debug\day7OOP.pdb
